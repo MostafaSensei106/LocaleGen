@@ -45,12 +45,6 @@ This Python Script is an advanced Flutter translation tool designed for Flutter 
 8. **Directory Processing**:
     - Processes all Dart files in the specified directory, excluding certain files and directories.
 
-9. **Interactive Prompts**:
-    - Prompts the user for necessary inputs during execution.
-
-10. **Output Management**:
-    - Saves the results in specified output files and directories.
-
 ## Installation
 
 Get Locale Gen up and running on your local machine in just a few steps:
